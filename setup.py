@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='Performance_Pulse',
+name='Hearty_AI',
 version='0.0.1',
 author='shivi',
 author_email='shiviaroa017@gmail.com',
